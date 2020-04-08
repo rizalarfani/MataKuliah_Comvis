@@ -1,0 +1,5 @@
+Dari keempat metode yang saya coba yaitu Averaging,Gaussian,Median,Bilateral
+dan hasil dengan kualitas terbaik dengan menggunakan metode median gambar yang di proses akan
+mengalami pernghalusan dengan blur,dengan menggunakan metode averaging,Gaussian itu hasilnya
+hampir sm dengan gambar aslinua,,tetapi dengan mengunakan metode Bilateral hasil nya lumayan
+banyak noise yang hilang
