@@ -1,0 +1,20 @@
+soal uts by projek...
+
+lakukan segmentasi pada gambar uts.png dengan ketentuan berikut:
+
+soal 1 : 
+segmentasi hanya pada bangun berwarna hijau
+
+soal 2 :
+lakukan segmentasi pada lingkaran selain warna hijau  
+
+ketentuan:
+ - silahkan diskusi di grup ini agar projek dapat dikerjakan sesuai
+ - dikerjakan sampai uts berakhir
+ - penilaian individu
+ - struktur koding saya nilai jgn sama dengan lainnya
+ - sebelumnya membaca materi pencit.pptx bab image segmentasi
+
+cheatsheet :
+kombinasikan segmentasi berdasarkan warna dengan file shape detection
+

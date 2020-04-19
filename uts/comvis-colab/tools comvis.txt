@@ -1,0 +1,16 @@
+tools comvis dan cara install 
+
+1. python 3 (jgn lupa set path nya) https://www.petanikode.com/python-windows/
+2. jupyter notebook https://ngodingdata.com/memahami-jupyter-notebook-dan-cara-menggunakannya/
+
+package wajib
+1. numpy https://pypi.org/project/numpy/
+2. opencv https://pypi.org/project/opencv-python/
+3. matplotlib https://pypi.org/project/matplotlib/
+4. pandas https://pypi.org/project/pandas/
+5. pillow https://pypi.org/project/Pillow/
+6. scikit-learn https://pypi.org/project/scikit-learn/
+
+
+plugin biar gampang ngodingnya
+1. nbextension:  https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231
